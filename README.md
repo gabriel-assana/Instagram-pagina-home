@@ -8,8 +8,6 @@
 
 <p align="center">Projeto visa recriar uma copia da tela inicial de login do Instagram.</p>
 
-Página de login do Instagram: nesse projeto, será abordado o conceito sobre CSS Flexbox e responsividade
-
 ### 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 
